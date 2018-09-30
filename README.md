@@ -1,2 +1,2 @@
 # mass_file_renamer
-This is some python code that incrementally renames files with specified extensions.
+This is a python utility code that incrementally renames files with specified extensions.
